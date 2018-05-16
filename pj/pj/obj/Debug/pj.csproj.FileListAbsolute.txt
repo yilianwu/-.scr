@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\pj\pj\bin\Debug\pj.exe.config
+\\Mac\Home\Desktop\pj\pj\obj\Debug\pj.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\pj\pj\obj\Debug\pj.Form1.resources
+\\Mac\Home\Desktop\pj\pj\obj\Debug\pj.Properties.Resources.resources
+\\Mac\Home\Desktop\pj\pj\obj\Debug\pj.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\pj\pj\bin\Debug\pj.exe
+\\Mac\Home\Desktop\pj\pj\bin\Debug\pj.pdb
+\\Mac\Home\Desktop\pj\pj\obj\Debug\pj.exe
+\\Mac\Home\Desktop\pj\pj\obj\Debug\pj.pdb
